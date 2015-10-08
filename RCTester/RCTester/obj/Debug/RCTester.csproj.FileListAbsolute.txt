@@ -1,0 +1,6 @@
+c:\users\philip\documents\visual studio 2012\Projects\RCTester\RCTester\bin\Debug\RCTester.exe.config
+c:\users\philip\documents\visual studio 2012\Projects\RCTester\RCTester\bin\Debug\RCTester.exe
+c:\users\philip\documents\visual studio 2012\Projects\RCTester\RCTester\bin\Debug\RCTester.pdb
+c:\users\philip\documents\visual studio 2012\Projects\RCTester\RCTester\obj\Debug\RCTester.csprojResolveAssemblyReference.cache
+c:\users\philip\documents\visual studio 2012\Projects\RCTester\RCTester\obj\Debug\RCTester.exe
+c:\users\philip\documents\visual studio 2012\Projects\RCTester\RCTester\obj\Debug\RCTester.pdb

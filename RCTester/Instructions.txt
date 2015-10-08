@@ -1,0 +1,9 @@
+This is a simple project that I call RC-Tester. It's about testing a remotecontrolled car inside a room by registering some data and then starting the test to see the result.
+
+1. First you type the size of the room the car is being tested in.
+
+2. Second you set the drivinginstructions for the car. The startingposition of the car which needs to be inside the size of the room. Then which way the car is heading (N, S, W or E).
+
+3. Set commands for the car. F = front, B = back, R = right and L = left. Each command stand for one step, so if you want to drive 2 steps to the left you type 'LL'.
+
+The result will be shown if the car made it or not.
